@@ -63,7 +63,7 @@ which it reads from `/input-files`. The output is written at
 Installation of pandas can be done with the python package installer pip through command line: 
 
 ```shell
-& pip install pandas
+$ pip install pandas
 ```
 
 - Details about the package installer pip can be found in this link: https://pypi.org/project/pip/ 
